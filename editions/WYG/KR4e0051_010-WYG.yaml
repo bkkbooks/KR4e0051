@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4e0051/WYG/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 撰
+  hash: sha256:6c5ae9564292c109a98624cf08856367b16e5d2522cee022cc1426a225739c9a
+metadata:
+  title: 蚓竅集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:29:31.486724'
+  source:
+    repository: kanripo
+    path: KR4e0051/KR4e0051_010.txt
+hash: sha256:dc79e85d07ccdc1b836fe17ab92a6cc8d7873661473560dea949fda59643f521

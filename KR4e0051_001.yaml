@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4e0051/krp/v1/juan/1
+seq: 1
+front:
+  text: 蚓竅集卷一
+  hash: sha256:f5c7c1468c9ace88da14949749b1bed5fa78828d6f932544a6f6a2890ae4aa42
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0051_SBCK_001-1a}
+body:
+  text: 雲間管時敏撰西域于鶴年評四言古詩素堂湘水之涘衡山之陽有美一人於焉構堂維榱維桷匪雕匪斫不尚其華爰𣸪其朴堂之翼翼人之諄諄匪謀自適爰以飬親于時興止于時甘㫖朝夕弗違惟親之喜委順在天窮逹是宜居易而行心毋外馳奢則蠱情儉以養德用戒後昆服之無斁來德堂為中都國學分教林敬伯賦木之有本其幹乃強水之有源其流乃長吉士好修德日以茂德為本源克昌厥後猗歟林氏奕奕名門維祖維禰曰子曰孫匪德之來曷𥙿其昆斯堂翼翼以示將來保而勿射維德是積我言爾銘于堂之壁毗陵薛泓自號淵泉求銘其室五行在天惟一生水水之有本原原于始瀦之斯止孰曰匪淵道之斯逹孰曰匪泉盈科後進弗停十息維靜維深厥本乃立弗澄則濁罔覩山嶽弗撓則清毫髮乃眀撓之澄之清濁辨焉匪水若兹惟人亦然心而弗澄百欲是興身而弗撓一私靡擾昔在聖賢觀厥川海以近取譬道無不在允爾泓父逝者若斯我告爾銘永言服之
+  hash: sha256:cbc20289dca259c149155a46b2c72aec9a4d629279eae66969066abf81b9a173
+metadata:
+  title: 蚓竅集
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-12 01:29:31.486724'
+  source:
+    repository: kanripo
+    path: KR4e0051/KR4e0051_001.txt
+hash: sha256:ed334bfbf56c2ecbf468eb939be3ebc1d0ae9474a2bf22bb373ed13fc9c6d4de

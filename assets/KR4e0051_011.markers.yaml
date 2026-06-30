@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR4e0051/bkk/v1/markers/11
+seq: 11
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4e0051_SBCK_011-1a01}
+  - {type: indent, offset: 0, content: 　, id: KR4e0051_krp_011-bkkind1}
+  - {type: variant, offset: 0, length: 76, content: 跋右永樂中楚府刻本管時敏蚓竅集十卷半葉十行行二十字詩以古今體類次前後有土風精喜越谿艸堂文水道人諸印審是義門何氏故物卷六第六葉第二十葉義門據別本摹寫持以校, WYG: 五言絶句畵菜白白霜根嫩青青雨甲鮮蒼生無此色}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl2}
+  - {type: line-break, offset: 1, content: '', id: KR4e0051_SBCK_011-1a02}
+  - {type: indent, offset: 1, content: 　, id: KR4e0051_krp_011-bkkind2}
+  - {type: 'kr:newline', offset: 25, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl3}
+  - {type: line-break, offset: 25, content: '', id: KR4e0051_SBCK_011-1a03}
+  - {type: indent, offset: 25, content: 　, id: KR4e0051_krp_011-bkkind3}
+  - {type: substitution, offset: 40, original: 谿, replacement: 溪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1403}}
+  - {type: substitution, offset: 41, original: 艸, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0670}}
+  - {type: 'kr:newline', offset: 49, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl4}
+  - {type: line-break, offset: 49, content: '', id: KR4e0051_SBCK_011-1a04}
+  - {type: indent, offset: 49, content: 　, id: KR4e0051_krp_011-bkkind4}
+  - {type: 'kr:newline', offset: 73, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl5}
+  - {type: line-break, offset: 73, content: '', id: KR4e0051_SBCK_011-1a05}
+  - {type: indent, offset: 73, content: 　, id: KR4e0051_krp_011-bkkind5}
+  - {type: variant, offset: 77, length: 103, content: 庫全書著錄本實遠岀庫本上如卷三從征古州蠻迴途紀驛二十三首此本大題後繫以小題如右發靖州右洪江右安江等皆小題也蓋刊時先詩後題故以右字識之庫本旣悉删右字而原詩序次仍而未改於是前首之題未有不誤爲後一首者此一事也卷十, WYG: 海正豐年}
+  - {type: substitution, offset: 81, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  - {type: substitution, offset: 85, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3195}}
+  - {type: 'kr:newline', offset: 97, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl6}
+  - {type: line-break, offset: 97, content: '', id: KR4e0051_SBCK_011-1a06}
+  - {type: indent, offset: 97, content: 　, id: KR4e0051_krp_011-bkkind6}
+  - {type: substitution, offset: 97, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3886}}
+  - {type: 'kr:newline', offset: 121, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl7}
+  - {type: line-break, offset: 121, content: '', id: KR4e0051_SBCK_011-1a07}
+  - {type: indent, offset: 121, content: 　, id: KR4e0051_krp_011-bkkind7}
+  - {type: 'kr:newline', offset: 145, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl8}
+  - {type: line-break, offset: 145, content: '', id: KR4e0051_SBCK_011-1a08}
+  - {type: indent, offset: 145, content: 　, id: KR4e0051_krp_011-bkkind8}
+  - {type: substitution, offset: 145, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3216}}
+  - {type: 'kr:newline', offset: 169, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl9}
+  - {type: line-break, offset: 169, content: '', id: KR4e0051_SBCK_011-1a09}
+  - {type: indent, offset: 169, content: 　, id: KR4e0051_krp_011-bkkind9}
+  - {type: substitution, offset: 169, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 186, length: 3, content: 詩此本, WYG: ''}
+  - {type: variant, offset: 191, length: 7, content: 俱全庫本脫第二, WYG: 異鄉重九日難得好懷開細把茱茰酒殷勤勸一杯千里同為客驚心節序催遥思故園菊今日為誰開白}
+  - {type: page-break, offset: 191, content: '', id: KR4e0051_WYG_010-1b, image: WYG1231/WYG1231-0719b.png}
+  - {type: 'kr:newline', offset: 193, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl10}
+  - {type: line-break, offset: 193, content: '', id: KR4e0051_SBCK_011-1a10}
+  - {type: indent, offset: 193, content: 　, id: KR4e0051_krp_011-bkkind10}
+  - {type: variant, offset: 199, length: 1, content: 又, WYG: 難㑹面今日况重陽苐恨長稱壽年年在異鄉}
+  - {type: variant, offset: 208, length: 1, content: 詩, WYG: ''}
+  - {type: variant, offset: 211, length: 11, content: 庫本全脫此外二本詩題亦, WYG: 客裏逢初度艱難老弟兄一杯稱壽酒多少故鄉情勸酒重持杯杯深喜不辭願將今日意同保百年期黄花開未了緑酒驤来新頭白能歡聚吾鄉有㡬人送樂長蔣法宏母憂南還昨日鄉書至萱花悴北堂東風兩行泪逆水到清湘江行三首晚過三江口江空水急流船頭燈火起只尺是黄州野色含江薄沙痕帶水長東風無白浪容易下蘄陽雲樹㣲茫裏江流浩蕩間舵樓烟雨重不見九華山江霧著水飛輕雨隨風灑暗塵棹歌纔只尺不見棹歌人夜坐髙齋坐来久中宵月上}
+  - {type: page-break, offset: 211, content: '', id: KR4e0051_WYG_010-2a, image: WYG1231/WYG1231-0719c.png}
+  - {type: 'kr:newline', offset: 217, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl11}
+  - {type: line-break, offset: 217, content: '', id: KR4e0051_SBCK_011-1a11}
+  - {type: indent, offset: 217, content: 　, id: KR4e0051_krp_011-bkkind11}
+  - {type: variant, offset: 223, length: 2, content: 有岀, WYG: 家僮初睡覺驚報早朝遲小景薄宧鬢成絲鄉山}
+  - {type: page-break, offset: 223, content: '', id: KR4e0051_WYG_010-2b, image: WYG1231/WYG1231-0719d.png}
+  - {type: substitution, offset: 224, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3195}}
+  - {type: variant, offset: 226, length: 31, content: 如卷五之患足行庫本改作折足行之類未易縷指此二事也提要稱丁鶴年與, WYG: 夢思抱琴松下者政似在家}
+  - {type: 'kr:newline', offset: 241, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl12}
+  - {type: line-break, offset: 241, content: '', id: KR4e0051_SBCK_011-1a12}
+  - {type: indent, offset: 241, content: 　, id: KR4e0051_krp_011-bkkind12}
+  - {type: variant, offset: 258, length: 157, content: 敏皆爲楚王所禮重故幷其評語刻之又云時敏又有秋香百詠還鄕紀行見周子冶所作全菴記知所據本有評語又有全菴記與此本同然庫本無之者則館臣之過矣此三事也觀於此三事則此本之善不待煩言而解時敏初名訥後以字行華亭人與袁海叟交善俱以詩名洪武九年徵拜楚王府紀善進右長史丁鶴年是時亦客居武昌嘗有詩送時敏云楚王獨數蘇從諫齊士誰過管仲才見海巢, WYG: 蚓竅}
+  - {type: substitution, offset: 260, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 265, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl13}
+  - {type: page-break, offset: 265, content: '', id: KR4e0051_SBCK_011-1b}
+  - {type: 'kr:newline', offset: 265, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl14}
+  - {type: line-break, offset: 265, content: '', id: KR4e0051_SBCK_011-1b01}
+  - {type: indent, offset: 265, content: 　, id: KR4e0051_krp_011-bkkind13}
+  - {type: substitution, offset: 267, original: 幷, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4103}}
+  - {type: substitution, offset: 284, original: 鄕, replacement: 鄉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3390}}
+  - {type: 'kr:newline', offset: 289, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl15}
+  - {type: line-break, offset: 289, content: '', id: KR4e0051_SBCK_011-1b02}
+  - {type: indent, offset: 289, content: 　, id: KR4e0051_krp_011-bkkind14}
+  - {type: 'kr:newline', offset: 313, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl16}
+  - {type: line-break, offset: 313, content: '', id: KR4e0051_SBCK_011-1b03}
+  - {type: indent, offset: 313, content: 　, id: KR4e0051_krp_011-bkkind15}
+  - {type: 'kr:newline', offset: 337, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl17}
+  - {type: line-break, offset: 337, content: '', id: KR4e0051_SBCK_011-1b04}
+  - {type: indent, offset: 337, content: 　, id: KR4e0051_krp_011-bkkind16}
+  - {type: 'kr:newline', offset: 361, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl18}
+  - {type: line-break, offset: 361, content: '', id: KR4e0051_SBCK_011-1b05}
+  - {type: indent, offset: 361, content: 　, id: KR4e0051_krp_011-bkkind17}
+  - {type: 'kr:newline', offset: 385, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl19}
+  - {type: line-break, offset: 385, content: '', id: KR4e0051_SBCK_011-1b06}
+  - {type: indent, offset: 385, content: 　, id: KR4e0051_krp_011-bkkind18}
+  - {type: 'kr:newline', offset: 409, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl20}
+  - {type: line-break, offset: 409, content: '', id: KR4e0051_SBCK_011-1b07}
+  - {type: indent, offset: 409, content: 　, id: KR4e0051_krp_011-bkkind19}
+  - {type: punctuation, offset: 412, content: (, id: KR4e0051_krp_011-bkkpn1}
+  - {type: punctuation, offset: 415, content: /, id: KR4e0051_krp_011-bkkpn2}
+  - {type: variant, offset: 416, length: 32, content: 卷四其推重如此此集亦岀鶴年評隲彼二人之交誼可於此覘之矣海寧趙萬里, WYG: 巻十}
+  - {type: punctuation, offset: 418, content: ), id: KR4e0051_krp_011-bkkpn3}
+  - {type: substitution, offset: 426, original: 岀, replacement: 出, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3195}}
+  - {type: 'kr:newline', offset: 436, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl21}
+  - {type: line-break, offset: 436, content: '', id: KR4e0051_SBCK_011-1b08}
+  - {type: indent, offset: 436, content: 　, id: KR4e0051_krp_011-bkkind20}
+  - {type: variant, offset: 436, length: 1, content: 誼, SBCK: 􅁩}
+  - {type: 'kr:newline', offset: 448, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl22}
+  - {type: page-break, offset: 448, content: '', id: KR4e0051_SBCK_011-2a}
+  - {type: 'kr:newline', offset: 448, content: '
+
+      ', id: KR4e0051_krp_011-bkkkrnewl23}
+  back: []
+hash: sha256:78e4d364400d2b246134820855acdf9241a7a0b9274136baa1c7a5b3b82eb1c2

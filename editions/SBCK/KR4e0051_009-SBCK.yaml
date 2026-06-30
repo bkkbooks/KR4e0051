@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4e0051/SBCK/v1/juan/9
+seq: 9
+front:
+  text: 蚓竅集卷九
+  hash: sha256:f29e98c5f29ed3710d3053ebdd5f3f7d7f564f5693f65bf8b0d9639a2e7422fe
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0051_SBCK_009-1a}
+body:
+  text: 雲間管時敏撰西域丁鶴年評六言絶句墨蘭青草三閭亭下蒼梧二女祠前欲采幽芳􅀉逺月明秋水娟娟楚畹光風曉泛湘臯泫露秋零我欲紉之為佩幽懐挹此芳馨題墨梅送友人黄鶴樓中玉笛看花吹徹春聲一别故人何處江南月落參横應山道中櫟木千株葉落梅花一樹香来􅀙􅀐休吹羗管山中野鶴驚猜
+  hash: sha256:3e5f63762ff28dd4f8e6be1897332a7cc0257d0ebfe534de07af8fb393a19b0b
+metadata:
+  title: 蚓竅集
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-12 01:29:31.486724'
+  source:
+    repository: kanripo
+    path: KR4e0051/KR4e0051_009.txt
+hash: sha256:e8a07ea2a7f247033e36ee9b33a379deee5cbf0ced16b26b74df623619e1903b
