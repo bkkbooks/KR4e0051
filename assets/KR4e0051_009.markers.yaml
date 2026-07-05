@@ -46,7 +46,6 @@ markers:
 
       ', id: KR4e0051_krp_009-bkkkrnewl7}
   - {type: line-break, offset: 42, content: '', id: KR4e0051_SBCK_009-1a08}
-  - {type: substitution, offset: 61, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4344}}
   - {type: 'kr:newline', offset: 62, content: '
 
       ', id: KR4e0051_krp_009-bkkkrnewl8}
@@ -65,13 +64,11 @@ markers:
 
       ', id: KR4e0051_krp_009-bkkkrnewl11}
   - {type: line-break, offset: 72, content: '', id: KR4e0051_SBCK_009-1b01}
-  - {type: substitution, offset: 72, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
   - {type: variant, offset: 78, length: 1, content: 看, WYG: 㸔}
   - {type: 'kr:newline', offset: 92, content: '
 
       ', id: KR4e0051_krp_009-bkkkrnewl12}
   - {type: line-break, offset: 92, content: '', id: KR4e0051_SBCK_009-1b02}
-  - {type: substitution, offset: 95, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4506}}
   - {type: 'kr:newline', offset: 96, content: '
 
       ', id: KR4e0051_krp_009-bkkkrnewl13}
@@ -82,10 +79,8 @@ markers:
       ', id: KR4e0051_krp_009-bkkkrnewl14}
   - {type: line-break, offset: 100, content: '', id: KR4e0051_SBCK_009-1b04}
   - {type: variant, offset: 111, length: 1, content: 来, WYG: 來}
-  - {type: substitution, offset: 111, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0323}}
   - {type: variant, offset: 112, length: 1, content: 從, SBCK: 􅀙}
   - {type: variant, offset: 113, length: 1, content: 騎, SBCK: 􅀐}
-  - {type: substitution, offset: 116, original: 羗, replacement: 羌, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1660}}
   - {type: 'kr:newline', offset: 120, content: '
 
       ', id: KR4e0051_krp_009-bkkkrnewl15}
@@ -96,4 +91,4 @@ markers:
   - {type: variant, offset: 124, length: 0, content: '', WYG: 蚓竅集巻九欽定四庫全書蚓竅集巻十明管時敏撰}
   - {type: page-break, offset: 124, content: '', id: KR4e0051_WYG_010-1a, image: WYG1231/WYG1231-0719a.png}
   back: []
-hash: sha256:92eb03780e38d02efeb90870c3880d530e334f314216934cd5c1736beb33f469
+hash: sha256:6373a332e7ca84b94a4b0e61b478c7ae64d13bc2d6326ee26337e78636443b60
