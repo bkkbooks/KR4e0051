@@ -122,6 +122,7 @@ markers:
   - {type: indent, offset: 222, content: 　, id: KR4e0051_krp_002-bkkind12}
   - {type: variant, offset: 222, length: 10, content: 評曰飄飄然有輊舉之意, WYG: ''}
   - {type: punctuation, offset: 224, content: (, id: KR4e0051_krp_002-bkkpn1}
+  - {type: voice, offset: 224, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 228, content: /, id: KR4e0051_krp_002-bkkpn2}
   - {type: punctuation, offset: 232, content: ), id: KR4e0051_krp_002-bkkpn3}
   - {type: 'kr:newline', offset: 232, content: '
@@ -173,6 +174,7 @@ markers:
   - {type: line-break, offset: 319, content: '', id: KR4e0051_SBCK_002-2a03}
   - {type: variant, offset: 319, length: 10, content: 評曰任俠之状儼在目前, WYG: ''}
   - {type: punctuation, offset: 321, content: (, id: KR4e0051_krp_002-bkkpn4}
+  - {type: voice, offset: 321, length: 8, name: note, id: n2}
   - {type: substitution, offset: 324, original: 状, replacement: 狀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16551}}
   - {type: punctuation, offset: 325, content: /, id: KR4e0051_krp_002-bkkpn5}
   - {type: punctuation, offset: 329, content: ), id: KR4e0051_krp_002-bkkpn6}
@@ -222,6 +224,7 @@ markers:
   - {type: indent, offset: 415, content: 　, id: KR4e0051_krp_002-bkkind16}
   - {type: variant, offset: 415, length: 27, content: 評曰題二隱圖者多矣無若此詩如親與二隱接談者結句尤為脫灑, WYG: ''}
   - {type: punctuation, offset: 417, content: (, id: KR4e0051_krp_002-bkkpn7}
+  - {type: voice, offset: 417, length: 25, name: note, id: n3}
   - {type: variant, offset: 419, length: 1, content: 隱, SBCK: 􅀮}
   - {type: punctuation, offset: 430, content: /, id: KR4e0051_krp_002-bkkpn8}
   - {type: variant, offset: 432, length: 1, content: 隱, SBCK: 􅀮}
@@ -389,6 +392,7 @@ markers:
   - {type: line-break, offset: 765, content: '', id: KR4e0051_SBCK_002-3b03}
   - {type: variant, offset: 765, length: 13, content: 評曰秋夜至此四詩有選人風致, WYG: ''}
   - {type: punctuation, offset: 767, content: (, id: KR4e0051_krp_002-bkkpn10}
+  - {type: voice, offset: 767, length: 11, name: note, id: n4}
   - {type: punctuation, offset: 773, content: /, id: KR4e0051_krp_002-bkkpn11}
   - {type: punctuation, offset: 778, content: ), id: KR4e0051_krp_002-bkkpn12}
   - {type: 'kr:newline', offset: 778, content: '
@@ -483,6 +487,7 @@ markers:
   - {type: indent, offset: 956, content: 　, id: KR4e0051_krp_002-bkkind26}
   - {type: variant, offset: 956, length: 6, content: 評曰辭嚴意新, WYG: ''}
   - {type: punctuation, offset: 958, content: (, id: KR4e0051_krp_002-bkkpn13}
+  - {type: voice, offset: 958, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 960, content: /, id: KR4e0051_krp_002-bkkpn14}
   - {type: punctuation, offset: 962, content: ), id: KR4e0051_krp_002-bkkpn15}
   - {type: 'kr:newline', offset: 962, content: '
@@ -554,6 +559,7 @@ markers:
   - {type: indent, offset: 1109, content: 　, id: KR4e0051_krp_002-bkkind29}
   - {type: variant, offset: 1109, length: 10, content: 評曰辭氣雄渾襟懐曠逹, WYG: ''}
   - {type: punctuation, offset: 1111, content: (, id: KR4e0051_krp_002-bkkpn16}
+  - {type: voice, offset: 1111, length: 8, name: note, id: n6}
   - {type: punctuation, offset: 1115, content: /, id: KR4e0051_krp_002-bkkpn17}
   - {type: variant, offset: 1115, length: 1, content: 襟, SBCK: 􅁭}
   - {type: substitution, offset: 1116, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
@@ -587,4 +593,4 @@ markers:
   - {type: page-break, offset: 1163, content: '', id: KR4e0051_WYG_002-5b, image: WYG1231/WYG1231-0679d.png}
   - {type: page-break, offset: 1163, content: '', id: KR4e0051_WYG_003-1a, image: WYG1231/WYG1231-0680a.png}
   back: []
-hash: sha256:f19fcc3c2c10e286f68768ace3d6dadc505af2413c906b332673f5be98d628e3
+hash: sha256:637cd4b688627513b77066ad64c6e5723d392f188183c89e5d3c8a6076550f22

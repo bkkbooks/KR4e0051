@@ -128,6 +128,7 @@ markers:
   - {type: line-break, offset: 409, content: '', id: KR4e0051_SBCK_011-1b07}
   - {type: indent, offset: 409, content: 　, id: KR4e0051_krp_011-bkkind19}
   - {type: punctuation, offset: 412, content: (, id: KR4e0051_krp_011-bkkpn1}
+  - {type: voice, offset: 412, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 415, content: /, id: KR4e0051_krp_011-bkkpn2}
   - {type: variant, offset: 416, length: 32, content: 卷四其推重如此此集亦岀鶴年評隲彼二人之交誼可於此覘之矣海寧趙萬里, WYG: 巻十}
   - {type: punctuation, offset: 418, content: ), id: KR4e0051_krp_011-bkkpn3}
@@ -146,4 +147,4 @@ markers:
 
       ', id: KR4e0051_krp_011-bkkkrnewl23}
   back: []
-hash: sha256:daebfd76b7239e822aab3380b8e2c5f9f113e199948e9ac87bb780d9474b4e47
+hash: sha256:4b2a162656dad83120da322e0a78c67babd3f780dfb933b9935c8919762f1bf0

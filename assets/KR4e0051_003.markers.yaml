@@ -153,6 +153,7 @@ markers:
   - {type: line-break, offset: 276, content: '', id: KR4e0051_SBCK_003-2a02}
   - {type: variant, offset: 276, length: 31, content: 評曰獨坐詩至此共五首以恬澹心造清淳語是䏻安其所遇無慕乎其外者欤, WYG: ''}
   - {type: punctuation, offset: 278, content: (, id: KR4e0051_krp_003-bkkpn1}
+  - {type: voice, offset: 278, length: 29, name: note, id: n1}
   - {type: substitution, offset: 288, original: 澹, replacement: 淡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20177}}
   - {type: punctuation, offset: 293, content: /, id: KR4e0051_krp_003-bkkpn2}
   - {type: substitution, offset: 295, original: 䏻, replacement: 能, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4391}}
@@ -213,6 +214,7 @@ markers:
   - {type: variant, offset: 409, length: 1, content: 夣, WYG: 夢}
   - {type: substitution, offset: 409, original: 夣, replacement: 夢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19960}}
   - {type: punctuation, offset: 419, content: (, id: KR4e0051_krp_003-bkkpn4}
+  - {type: voice, offset: 419, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 423, content: /, id: KR4e0051_krp_003-bkkpn5}
   - {type: variant, offset: 423, length: 0, content: '', WYG: 在}
   - {type: punctuation, offset: 426, content: ), id: KR4e0051_krp_003-bkkpn6}
@@ -698,6 +700,7 @@ markers:
   - {type: substitution, offset: 1410, original: 毎, replacement: 每, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20789}}
   - {type: variant, offset: 1415, length: 18, content: 評曰形容至此不惟出竒可謂一飯不忘君矣, WYG: ''}
   - {type: punctuation, offset: 1417, content: (, id: KR4e0051_krp_003-bkkpn7}
+  - {type: voice, offset: 1417, length: 16, name: note, id: n3}
   - {type: punctuation, offset: 1425, content: /, id: KR4e0051_krp_003-bkkpn8}
   - {type: punctuation, offset: 1433, content: ), id: KR4e0051_krp_003-bkkpn9}
   - {type: 'kr:newline', offset: 1433, content: '
@@ -786,6 +789,7 @@ markers:
   - {type: variant, offset: 1575, length: 42, content: 評曰從征詩廿三首各因其山川險易風景明晦首首不同是得紀行之法緑蘿河池眀山三聮皆有聲之畫, WYG: ''}
   - {type: punctuation, offset: 1577, content: (, id: KR4e0051_krp_003-bkkpn10}
   - {type: variant, offset: 1577, length: 1, content: 從, SBCK: 􅀙}
+  - {type: voice, offset: 1577, length: 40, name: note, id: n4}
   - {type: substitution, offset: 1580, original: 廿, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20144}}
   - {type: punctuation, offset: 1597, content: /, id: KR4e0051_krp_003-bkkpn11}
   - {type: punctuation, offset: 1617, content: ), id: KR4e0051_krp_003-bkkpn12}
@@ -895,6 +899,7 @@ markers:
   - {type: indent, offset: 1829, content: 　, id: KR4e0051_krp_003-bkkind48}
   - {type: variant, offset: 1829, length: 10, content: 評曰敬謹之心不遑寧處, WYG: ''}
   - {type: punctuation, offset: 1831, content: (, id: KR4e0051_krp_003-bkkpn13}
+  - {type: voice, offset: 1831, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 1835, content: /, id: KR4e0051_krp_003-bkkpn14}
   - {type: punctuation, offset: 1839, content: ), id: KR4e0051_krp_003-bkkpn15}
   - {type: 'kr:newline', offset: 1839, content: '
@@ -960,6 +965,7 @@ markers:
   - {type: line-break, offset: 1951, content: '', id: KR4e0051_SBCK_003-7b03}
   - {type: variant, offset: 1951, length: 14, content: 評曰友于之愛急難之憂流出肺腑, WYG: ''}
   - {type: punctuation, offset: 1953, content: (, id: KR4e0051_krp_003-bkkpn16}
+  - {type: voice, offset: 1953, length: 12, name: note, id: n6}
   - {type: punctuation, offset: 1960, content: /, id: KR4e0051_krp_003-bkkpn17}
   - {type: punctuation, offset: 1965, content: ), id: KR4e0051_krp_003-bkkpn18}
   - {type: 'kr:newline', offset: 1965, content: '
@@ -986,6 +992,7 @@ markers:
       ', id: KR4e0051_krp_003-bkkkrnewl149}
   - {type: line-break, offset: 2010, content: '', id: KR4e0051_SBCK_003-7b07}
   - {type: punctuation, offset: 2012, content: (, id: KR4e0051_krp_003-bkkpn19}
+  - {type: voice, offset: 2012, length: 22, name: note, id: n7}
   - {type: punctuation, offset: 2023, content: /, id: KR4e0051_krp_003-bkkpn20}
   - {type: punctuation, offset: 2034, content: ), id: KR4e0051_krp_003-bkkpn21}
   - {type: 'kr:newline', offset: 2034, content: '
@@ -1589,4 +1596,4 @@ markers:
   - {type: variant, offset: 3172, length: 0, content: '', WYG: 蚓竅集巻三欽定四庫全書蚓竅集巻四明管時敏撰}
   - {type: page-break, offset: 3172, content: '', id: KR4e0051_WYG_004-1a, image: WYG1231/WYG1231-0686c.png}
   back: []
-hash: sha256:0f33b30661ddbc7776d9c7abe8492d0723775568a5308e6f604f59a9928e325d
+hash: sha256:4271ed2da3755bc7c12fcb2d722cf56b0c74c2b7969a75ce5b9d5ad72bca9577

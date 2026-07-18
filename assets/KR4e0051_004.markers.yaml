@@ -236,6 +236,7 @@ markers:
   - {type: line-break, offset: 494, content: '', id: KR4e0051_SBCK_004-2b03}
   - {type: indent, offset: 494, content: 　　, id: KR4e0051_krp_004-bkkind15}
   - {type: punctuation, offset: 495, content: (, id: KR4e0051_krp_004-bkkpn1}
+  - {type: voice, offset: 495, length: 18, name: note, id: n1}
   - {type: variant, offset: 497, length: 1, content: 為, WYG: 爲}
   - {type: punctuation, offset: 503, content: /, id: KR4e0051_krp_004-bkkpn2}
   - {type: variant, offset: 503, length: 0, content: '', WYG: 京而卒}
@@ -539,6 +540,7 @@ markers:
   - {type: indent, offset: 1249, content: 　, id: KR4e0051_krp_004-bkkind26}
   - {type: variant, offset: 1249, length: 22, content: 評曰如一之義之䘮之哀白首不忘豈泛泛師友之言㢤, WYG: ''}
   - {type: punctuation, offset: 1251, content: (, id: KR4e0051_krp_004-bkkpn5}
+  - {type: voice, offset: 1251, length: 20, name: note, id: n2}
   - {type: substitution, offset: 1256, original: 䘮, replacement: 喪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19427}}
   - {type: punctuation, offset: 1261, content: /, id: KR4e0051_krp_004-bkkpn6}
   - {type: substitution, offset: 1270, original: 㢤, replacement: 哉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19431}}
@@ -856,6 +858,7 @@ markers:
       ', id: KR4e0051_krp_004-bkkkrnewl125}
   - {type: line-break, offset: 1923, content: '', id: KR4e0051_SBCK_004-6b05}
   - {type: punctuation, offset: 1923, content: (, id: KR4e0051_krp_004-bkkpn8}
+  - {type: voice, offset: 1923, length: 22, name: note, id: n3}
   - {type: punctuation, offset: 1934, content: /, id: KR4e0051_krp_004-bkkpn9}
   - {type: punctuation, offset: 1945, content: ), id: KR4e0051_krp_004-bkkpn10}
   - {type: 'kr:newline', offset: 1945, content: '
@@ -963,4 +966,4 @@ markers:
   - {type: variant, offset: 2198, length: 0, content: '', WYG: 蚓竅集巻四欽定四庫全書蚓竅集巻五明管時敏撰}
   - {type: page-break, offset: 2198, content: '', id: KR4e0051_WYG_005-1a, image: WYG1231/WYG1231-0690c.png}
   back: []
-hash: sha256:08b21fa204511b909c16094142111dec321eeb627ac7c9889a993fa38a1964ea
+hash: sha256:e98a189841414ffd03211a717cf88da97f764a02fb75e16caa560bb48ff2c82d
